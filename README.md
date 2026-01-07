@@ -20,27 +20,13 @@
   </a>
 </div>
 
-## 📊 Profile Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanurrahmanontu&show_icons=true&theme=default&hide_border=true&count_private=true&hide=issues)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanurrahmanontu&layout=compact&theme=default&hide_border=true&exclude_repo=)
-  
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohanurrahmanontu&theme=default&hide_border=true)
-  
-  <img src="https://komarev.com/ghpvc/?username=rohanurrahmanontu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  
-</div>
-
-## 👨‍💻 About Me
+## About Me
 
 I'm a Data Analyst and AI Engineer focused on turning data into actionable insights and building practical automation tools. I work across the full data process—from cleaning and modeling to dashboard creation—while developing AI agents and workflow systems that make teams more efficient.
 
 **Current Focus:** SaaS Analytics • AI Agent Development • Process Automation
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Data Analysis**
 `SQL` `Python` `Power BI` `Metabase` `BigQuery` `Excel`
@@ -51,7 +37,7 @@ I'm a Data Analyst and AI Engineer focused on turning data into actionable insig
 ### **Tools & Platforms**
 `Notion` `Slack` `Airtable` `Jupyter` `Looker Studio`
 
-## 📁 Projects
+## Projects
 
 ### 🤖 **AI & Automation**
 - **Multi-Agent Market Intelligence** – Market analysis automation
@@ -65,11 +51,11 @@ I'm a Data Analyst and AI Engineer focused on turning data into actionable insig
 - **E-commerce Analytics** – SQL-based sales insights
 - **Promotional Campaign Analysis** – ROI and performance tracking
 
-## 📫 Get in Touch
+## Get in Touch
 
-- **📧 Email:** mdrohanurrahmanontu@gmail.com  
-- **💼 LinkedIn:** linkedin.com/in/rohanurrahman  
-- **📍 Location:** Dhaka, Bangladesh  
+- **Email:** mdrohanurrahmanontu@gmail.com  
+- **LinkedIn:** linkedin.com/in/rohanurrahman  
+- **Location:** Dhaka, Bangladesh  
 
 <div align="center">
   <a href="https://buymeacoffee.com/rohanurrahman" target="_blank">
