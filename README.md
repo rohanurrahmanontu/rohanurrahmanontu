@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Rohanur Rahman</h1>
-<h3 align="center">Data Analyst & AI Engineer</h3>
+<h3 align="center">Data Analyst & Agentic AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=22C3E6&center=true&vCenter=true&width=500&lines=SQL+%7C+Python+%7C+PowerBI+%7C+BigQuery;LangChain+%7C+n8n+%7C+Automation;Data+to+Insights+%7C+Workflow+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=22C3E6&center=true&vCenter=true&width=500&lines=SQL+%7C+Python+%7C+PowerBI+%7C+Metabase; n8n+%7C+CrewAI+%7C+Claude;Custom+Automation+%7C+Agentic+AI+%7C+Data+Insights" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -22,40 +22,51 @@
 
 ## About Me
 
-I'm a Data Analyst and AI Engineer focused on turning data into actionable insights and building practical automation tools. I work across the full data process—from cleaning and modeling to dashboard creation—while developing AI agents and workflow systems that make teams more efficient.
+I'm a **Data Analyst** and **Agentic AI Engineer** specializing in **custom automation solutions**, **intelligent AI agents**, and turning raw data into actionable business insights.
 
-**Current Focus:** SaaS Analytics • AI Agent Development • Process Automation
+I build end-to-end systems that combine robust data analysis with autonomous AI workflows — helping teams save time, reduce manual work, and make faster, smarter decisions.
+
+**Current Focus:**  
+• Custom n8n Automations  
+• Agentic AI Solutions (CrewAI + Claude)  
+• Production-Grade Data Analysis & Reporting
+
+---
 
 ## Tech Stack
 
 ### **Data Analysis**
-`SQL` `Python` `Power BI` `Metabase` `BigQuery` `Excel`
+`SQL` `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Metabase` `BigQuery`
 
-### **Automation & AI**
-`LangChain` `LangFlow` `n8n` `Zapier` `Git` `GitHub`
+### **Automation & Agentic AI**
+`n8n` `CrewAI` `Claude` `Hermes Agent` `Python`
 
 ### **Tools & Platforms**
-`Notion` `Slack` `Airtable` `Jupyter` `Looker Studio`
+`Git` `GitHub` `Jupyter`
+
+---
 
 ## Projects
 
-### 🤖 **AI & Automation**
-- **Multi-Agent Market Intelligence** – Market analysis automation
-- **AI Job Application Assistant** – Full-stack automation with n8n
-- **Voice-Enabled Data Analyst** – Voice-controlled reporting agent
-- **Automated Invoice Processing** – End-to-end document automation
+### 🤖 **Agentic AI & Automation**
+- **Multi-Agent Intelligence Systems** – Autonomous agents built with CrewAI + Claude for complex workflows
+- **Custom n8n Automation Solutions** – Production-ready workflow automations tailored to business needs
+- **Intelligent AI Assistants** – Voice-enabled and task-specific agents using Hermes Agent & CrewAI
+- **End-to-End Document & Process Automation** – Invoice processing, data entry, and reporting pipelines
 
 ### 📊 **Data Analysis**
-- **SaaS Financial Analysis** – Market performance dashboards
-- **Customer Churn Analysis** – Predictive modeling with Python
-- **E-commerce Analytics** – SQL-based sales insights
-- **Promotional Campaign Analysis** – ROI and performance tracking
+- **SaaS Financial & Performance Dashboards** – Power BI & Metabase solutions with SQL + Python
+- **Customer Churn & Predictive Analysis** – Python (Pandas, NumPy, Seaborn) based insights
+- **E-commerce & Campaign Analytics** – Deep SQL analysis with compelling visualizations
+- **Business Intelligence Reporting** – Automated dashboards and insight delivery systems
+
+---
 
 ## Get in Touch
 
-- **Email:** mdrohanurrahmanontu@gmail.com  
-- **LinkedIn:** linkedin.com/in/rohanurrahman  
-- **Location:** Dhaka, Bangladesh  
+- **Email:** mdrohanurrahmanontu@gmail.com
+- **LinkedIn:** [linkedin.com/in/rohanurrahman](https://linkedin.com/in/rohanurrahman)
+- **Location:** Dhaka, Bangladesh
 
 <div align="center">
   <a href="https://buymeacoffee.com/rohanurrahman" target="_blank">
@@ -64,4 +75,5 @@ I'm a Data Analyst and AI Engineer focused on turning data into actionable insig
 </div>
 
 ---
-*Open to remote opportunities and collaborations*
+
+*Open to remote opportunities and interesting automation / AI agent collaborations*
