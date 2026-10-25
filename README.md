@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:22C3E6,100:0a0a0a&height=180&section=header&text=Rohanur%20Rahman&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20%26%20Workflow%20Automation%20Strategist&descAlignY=72&descSize=17" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:22C3E6,100:0a0a0a&height=180&section=header&text=Rohanur%20Rahman&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20%C2%B7%20Workflow%20Automation%20Strategist&descAlignY=72&descSize=17" width="100%" />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=22C3E6&center=true&vCenter=true&width=520&lines=Agents+that+work+while+you+sleep.;n8n+%E2%80%A2+LangChain+%E2%80%A2+MCP+%E2%80%A2+RAG;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI" alt="Typing SVG" />
 </p>
